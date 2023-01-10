@@ -1,0 +1,74 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-1976-canvas-1-situated-voice.json",
+  "type": "AnnotationPage",
+  "label": "Situated voice",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-1976-canvas-1-situated-voice-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"[McClure reads the first three and a half lines of Geoffrey Chaucer's Canterbury Tales. It was a regular habit of McClure’s to recite these lines before public performances of Ghost Tantras. The gesture “suggest[s] the origins of his poetry in early English verse,” as Michael Davidson notes (86). On the day he shot the USA Poetry episode at the San Francisco Zoo, McClure also recited Chaucer to the tree kangaroos, for whom “beast language was not right” (Kahn 340). Several months after the reading at Naropa, on November 25, 1976, McClure recited from the opening of Chaucer’s prologue on stage at San Francisco’s Winterland Ballroom during The Band’s famous farewell concert, immortalized in Martin Scorsese’s The Last Waltz (1978).]\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3537.000000,3554.000000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-1976-canvas-1-situated-voice-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Applause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3621.770577,3629.473509"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-1976-canvas-1-situated-voice-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Applause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3767.168855,3779.789478"
+        }
+      }
+    }
+  ]
+}
