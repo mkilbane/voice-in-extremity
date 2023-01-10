@@ -35,14 +35,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1--and-bathed-every-veyne-in-switch-licour-of-which-vertu-.json",
-            "label": {
-              "none": [" And bathed every veyne in switch licour Of which vertu\""]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-mcclure-reading-.json",
             "label": {
               "none": ["McClure reading "]
