@@ -21,7 +21,7 @@ But what does it mean to study older media artifacts, from the printed poem to t
 
 The harder one looks at the digital lyric archive, the harder it is to theorize. But one way of defining its contours is to confirm what it’s not. And that, it turns out, is instructively easy.
 
-In the annotated recording below, listeners will hear the American poet Michael McClure (1932-2020) read from his book Ghost Tantras (1964) at the Naropa Institute on June 6, 1976. The poems in Ghost Tantras dip in and out of what McClure calls “beast language,” an ecstatic register of leonine nonsense that mimics the guttural growls and roars of large mammals. Rather infamously, McClure read a selection of these poems to the lions at the San Francisco Zoo, an escapade captured in a 1966 episode of the documentary series USA Poetry, developed by poet and Beat associate Richard O. Moore:
+In the annotated recording below, listeners will hear the American poet Michael McClure (1932-2020) read from his book Ghost Tantras (1964) at the Naropa Institute on June 16, 1976. The poems in Ghost Tantras dip in and out of what McClure calls “beast language,” an ecstatic register of leonine nonsense that mimics the guttural growls and roars of large mammals. Rather infamously, McClure read a selection of these poems to the lions at the San Francisco Zoo, an escapade captured in a 1966 episode of the documentary series USA Poetry, developed by poet and Beat associate Richard O. Moore:
 
 >[![Michael McClure on Poetry USA (1966)](https://res.cloudinary.com/marcomontalbano/image/upload/v1673310036/video_to_markdown/images/youtube--djtmpdlXKEA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=djtmpdlXKEA "Michael McClure on Poetry USA (1966)")
 
