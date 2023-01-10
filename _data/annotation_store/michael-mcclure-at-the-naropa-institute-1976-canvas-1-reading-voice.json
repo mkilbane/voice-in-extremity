@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-1976-canvas-1-reading-voice.json",
+  "type": "AnnotationPage",
+  "label": "READING VOICE",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-1976-canvas-1-reading-voice-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"[McClure reads Ghost Tantra 51, page _____. As in many of his printed poems, McClure centers the Ghost Tantras down the pageÕs middle, an aesthetic strategy Davidson regards as beastly in its own right: ÒMcClure compares the physical shape of his poems to biological organismsÉ.Instead of returning to the left margin, the line asserts itself boldly as a free image, connected to the other lines like ribs to the spinal columnÓ (86). In light of McClureÕs performance and the digital lyric archive more broadly, DavidsonÕs observation that this meaningful shapeliness makes the line not Òa score for the voiceÓ but Òa separate object among other objectsÓ takes on curious significance. By what means can we account *both* for the lineÕs printed objecthood *and* the sonorous objecthood captured and audible, in this instance, on digitized tape? Even more to the point, how can we account for the historically-specific performance of McClureÕs recitationÑhis expressive Ôre-citationÕ of a printed text on June 16, 1976, the dynamic relation between page and speech, his Òreading voice.Ó I have taken advantage of the fact that McClureÕs recitation precisely reflects the printed version to respect the poemÕs printed lineation in my transcriptions below. Ideally, the critical act of reading and listening simultaneously will evoke the tension at the heart of the reading voice.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3559.000000,3629.000000"
+        }
+      }
+    }
+  ]
+}

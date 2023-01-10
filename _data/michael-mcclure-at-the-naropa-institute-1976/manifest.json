@@ -51,6 +51,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-1976-canvas-1-reading-voice.json",
+            "label": {
+              "none": ["READING VOICE"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-1976-canvas-1-situated-voice.json",
             "label": {
               "none": ["Situated voice"]
