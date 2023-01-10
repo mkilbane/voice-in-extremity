@@ -23,6 +23,24 @@
         "id": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-1976/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5297.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-1976-canvas-1-layer.json",
+            "label": {
+              "none": ["layer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-1976-canvas-1-mcclure-reading-.json",
+            "label": {
+              "none": ["McClure reading "]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-1976/canvas-1/paintings",
