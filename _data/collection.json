@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "The Voice in Extremity: Michael McClure and the Digital Lyric Archive" ] },
+    "summary": { "en": [ "A critical introduction to poet Michael McClure's \"Ghost Tantra 51\" and \"Ghost Tantra 49,\" as read by the poet on June 6, 1976 at the Naropa Institute, followed by an annotated reading of the same. " ] },
+    "items": [
+    ]
+}
