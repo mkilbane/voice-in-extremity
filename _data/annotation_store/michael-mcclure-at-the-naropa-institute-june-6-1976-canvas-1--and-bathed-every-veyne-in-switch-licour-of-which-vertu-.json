@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1--and-bathed-every-veyne-in-switch-licour-of-which-vertu-.json",
+  "type": "AnnotationPage",
+  "label": " And bathed every veyne in switch licour Of which vertu\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1--and-bathed-every-veyne-in-switch-licour-of-which-vertu--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Whan that Aprill with his shoures soote The droghte of March hath perced to the roote",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3537.778157,3546.699631"
+        }
+      }
+    }
+  ]
+}

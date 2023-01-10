@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1---as-michael-davidson-notes--86---on-the-day-he-shot-the-usa-poetry-episode-at-the-san-francisco-zoo.json",
+  "type": "AnnotationPage",
+  "label": "” as Michael Davidson notes (86). On the day he shot the USA Poetry episode at the San Francisco Zoo",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1---as-michael-davidson-notes--86---on-the-day-he-shot-the-usa-poetry-episode-at-the-san-francisco-zoo-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"[McClure reads the first three and a half lines of Geoffrey Chaucer's Canterbury Tales. It was a regular habit of McClure’s to recite these lines before public performances of Ghost Tantras. The gesture “suggest[s] the origins of his poetry in early English verse",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3537.000000,3554.000000"
+        }
+      }
+    }
+  ]
+}

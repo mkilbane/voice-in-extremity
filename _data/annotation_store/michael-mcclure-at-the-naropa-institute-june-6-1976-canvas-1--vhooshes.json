@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1--vhooshes.json",
+  "type": "AnnotationPage",
+  "label": " vhooshes",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1--vhooshes-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Thy trillionic multitude of grahh",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3685.831117,3691.619196"
+        }
+      }
+    }
+  ]
+}

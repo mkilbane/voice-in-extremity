@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1--.json",
+  "type": "AnnotationPage",
+  "label": "\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"It's very mantric. And I thought I'd be giving a reading and they'll carry me away at the end. I'll still be going Grahhr! Grahhr! So",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3637.611635,3646.010877"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1---annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Drive drooor from the fresh repugnance",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3668.118726,3673.428092"
+        }
+      }
+    }
+  ]
+}

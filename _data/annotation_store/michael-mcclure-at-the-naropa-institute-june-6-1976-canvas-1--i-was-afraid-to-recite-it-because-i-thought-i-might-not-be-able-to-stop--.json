@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1--i-was-afraid-to-recite-it-because-i-thought-i-might-not-be-able-to-stop--.json",
+  "type": "AnnotationPage",
+  "label": " I was afraid to recite it because I thought I might not be able to stop.\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1--i-was-afraid-to-recite-it-because-i-thought-i-might-not-be-able-to-stop---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I was always afraid to recite this other one. Although I knew it by heart",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3629.473509,3635.653262"
+        }
+      }
+    }
+  ]
+}

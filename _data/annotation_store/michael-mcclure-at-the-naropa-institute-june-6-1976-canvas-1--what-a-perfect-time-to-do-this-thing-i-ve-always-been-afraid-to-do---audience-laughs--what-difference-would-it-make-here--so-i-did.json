@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1--what-a-perfect-time-to-do-this-thing-i-ve-always-been-afraid-to-do---audience-laughs--what-difference-would-it-make-here--so-i-did.json",
+  "type": "AnnotationPage",
+  "label": " what a perfect time to do this thing I've always been afraid to do. [Audience laughs] What difference would it make here? So I did",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1--what-a-perfect-time-to-do-this-thing-i-ve-always-been-afraid-to-do---audience-laughs--what-difference-would-it-make-here--so-i-did-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"recently I was in one of John Lilly's isolation tanks and I thought",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3647.098861,3660.938027"
+        }
+      }
+    }
+  ]
+}
