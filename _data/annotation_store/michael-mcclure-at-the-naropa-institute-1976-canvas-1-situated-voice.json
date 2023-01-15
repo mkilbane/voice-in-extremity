@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-1976-canvas-1-situated-voice.json",
+  "type": "AnnotationPage",
+  "label": "SITUATED VOICE",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-1976-canvas-1-situated-voice-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"[The following recitations occur midway through McClure’s reading with Allen Ginsberg  on June 16, 1976 at the Naropa Institute’s summer session (the Jack Kerouac School of Disembodied Poetics). The plan was to offer attendees a Beat retrospective of sorts. In Ginsberg’s own words, “Michael and I decided that, for the evening, it would be interested to go back historically and read some of the same texts that we first read together the first time we read together…this evening we’re going to…alternate readings, beginning with a very brief presentation by myself and then a brief presentation by him, and then longer trading back-and-forth, five- and ten-minute sections, improvising the time as we go.” Ginsberg begins by reading a selection from “Howl” and McClure by reading “For the Death of 100 Whales,” both poems debuted in 1955 at the Six Gallery reading in San Francisco. In her introductory remarks, Anne Waldman shares a brief account of their friendship, beginning with their first “official meet[ing]” at a party for W.H. Auden in 1954 and extending to previous collaborations between McClure and Ginsberg, including readings together in 1965 during the Berkeley Vietnam peace protests and in the 1967 “Be-in” in San Francisco, “with Suzuki-Roshi [Shunryū Suzuki] on the stage,” as well as a host of other “Timothy Leary benefits” and “om orgies.” Waldman concludes that “this reading is a continuation of some kind of poetic-karmic link between these two poets.” It is also, implicitly, a continuation of illustrious Beat history.]\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-1976/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3521"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-1976-canvas-1-situated-voice-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"[McClure reads the first three and a half lines of Geoffrey Chaucer's Canterbury Tales. It was a regular habit of McClure’s to recite these lines before public performances of Ghost Tantras. The gesture “suggest[s] the origins of his poetry in early English verse,” as Michael Davidson notes (86). On the day he shot the USA Poetry episode at the San Francisco Zoo, McClure also recited Chaucer to the tree kangaroos, for whom “beast language was not right” (Kahn 340). Several months after the reading at Naropa, on November 25, 1976, McClure recited from the opening of Chaucer’s prologue on stage at San Francisco’s Winterland Ballroom during The Band’s famous farewell concert, immortalized in Martin Scorsese’s The Last Waltz (1978).]\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3537.000000,3554.000000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-1976-canvas-1-situated-voice-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Applause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3621.770577,3629.473509"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-1976-canvas-1-situated-voice-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Applause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-1976/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3767.168855,3779.789478"
+        }
+      }
+    }
+  ]
+}
