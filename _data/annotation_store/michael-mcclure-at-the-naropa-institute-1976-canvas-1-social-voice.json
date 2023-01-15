@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-1976-canvas-1-social-voice.json",
+  "type": "AnnotationPage",
+  "label": "SOCIAL VOICE",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-1976-canvas-1-social-voice-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"[To listen for the social voice is to apprehend the lived histories telescoped in a performer’s embodied vocal expression. McClure’s speech is the liquid instrument of an avid performer, one that betrays no especially particular regional distinctiveness save perhaps slightly nasal, slight ironic casualness of his generational milieu. As McClure moves in and out of beast language, letting the phonemic order of English dissolve into long vowels wrapped in deliciously indulged alveolar approximates and glottal fricatives, he means for us to hear the body, as it were. More particularly, though, we hear the 43-year-old male-gendered body that spent its childhood between Kansas and the Pacific Northwest and its adulthood in countercultural California.] \"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mkilbane.github.io/voice-in-extremity/michael-mcclure-at-the-naropa-institute-1976/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3629"
+        }
+      }
+    }
+  ]
+}
