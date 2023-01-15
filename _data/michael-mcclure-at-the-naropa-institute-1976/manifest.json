@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-1976-canvas-1-mcclure-speaking.json",
-            "label": {
-              "none": ["McClure speaking"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://mkilbane.github.io/voice-in-extremity/annotations/michael-mcclure-at-the-naropa-institute-1976-canvas-1-layer.json",
             "label": {
               "none": ["layer"]
